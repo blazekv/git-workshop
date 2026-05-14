@@ -36,4 +36,7 @@ Máme připravený outline — pokud chceš přispět, vítáme pull requesty!
 - Nová položka
 ---
 
+### 6.5 Důležitá telefonní čísla
+- sekce se připravuje - bude obsahovat čísla záchranných služeb v populárních destinacích.
+
 *— verze 0.1, nezačato, pouze outline —*
