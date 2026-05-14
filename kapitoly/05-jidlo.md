@@ -1,6 +1,6 @@
 # Kapitola 5 – Jídlo na cestách
 
-> *Neznáš zemi, dokud jsi nejedl na jejích trzích.*
+> *Jídlo je nejkratší cesta k pochopení kultury.*
 
 ---
 

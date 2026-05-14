@@ -16,7 +16,7 @@ Navrhnout přední obálku knihy "Průvodce moderním cestovatelstvím".
 - Rozlišení: 300 DPI pro tisk, 72 DPI pro web
 
 ### Vizuální styl
-- Moderní, čistý, ne klišé (žádné letadlo na obloze ani Eiffelovka)
+- Moderní, čistý, ne klišé (žádné letadlo na obloze, Eiffelovka ani západ slunce nad mořem)
 - Inspirace: slow travel, autenticita, lidskost
 - Barvy: viz `../navrhy/barevna-paleta.md`
 
