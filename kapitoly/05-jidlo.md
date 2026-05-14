@@ -45,9 +45,9 @@ Základní vybavení, které stojí za to mít: malý vařič na cesty, jedno po
 *[Tato sekce se doplňuje — vítáme tipy od autorů!]*
 
 Předběžný seznam:
-- **Japonsko** — preciznost a sezónnost
+- **Japonsko** — preciznost a anime
 - **Mexiko** — různorodost a barevnost
-- **Indie** — intenzita chutí
+- **Indie** — intenzita chutí, spicy af
 - **Itálie** — filosofie suroviny
 - **Thajsko** — rovnováha chutí
 
