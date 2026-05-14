@@ -33,7 +33,7 @@ Máme připravený outline — pokud chceš přispět, vítáme pull requesty!
 - VPN — kdy dává smysl
 - Zálohy dat
 - Co dělat, když ti ukradnou telefon
-
+- Nová položka
 ---
 
 *— verze 0.1, nezačato, pouze outline —*
