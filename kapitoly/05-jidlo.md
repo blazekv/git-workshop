@@ -53,4 +53,9 @@ Předběžný seznam:
 
 ---
 
-*— verze 0.1, rozpracováno —*
+*— verze 0.1, rozpracováno — přidána sekce o vaření*
+
+## Nejlepší street food trhy
+
+Sekce se připravuje - tipy vítány
+
