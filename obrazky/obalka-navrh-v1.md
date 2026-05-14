@@ -13,7 +13,7 @@ Navrhnout přední obálku knihy "Průvodce moderním cestovatelstvím".
 ### Rozměry
 - Výška: 240 mm
 - Šířka: 170 mm
-- Rozlišení: 300 DPI pro tisk, 72 DPI pro web
+- Rozlišení: 300 DPI pro tisk, 150 DPI pro web a e-book
 
 ### Vizuální styl
 - Moderní, čistý, ne klišé (žádné letadlo na obloze, Eiffelovka ani západ slunce nad mořem)
