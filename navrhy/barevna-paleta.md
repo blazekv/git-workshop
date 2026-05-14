@@ -38,6 +38,14 @@ Paleta vychází z barev skutečného cestování — moře, pouště, měst v p
 Vyhýbáme se příliš syté "travel blogové" estetice (tyrkysová + zlatá + bílá).
 Chceme, aby kniha vypadala jako objekt, který někdo četl a miloval — ne jako Instagram feed.
 
+
+
+## Pouziti v tiskovych materialech
+
+sekce se pripravuje - bude doplnena po finalizaci palety
+
+Otazky? Slack kanal #grafika nebo #kniha-vizualni
+
 ---
 
 *Status: schváleno vedením projektu — v0.1*
