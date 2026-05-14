@@ -12,7 +12,7 @@
 
 | Jméno | Role |
 |-------|------|
-| TBD | Obálka a ilustrace |
+| TBD | Obálka, ilustrace a ikony |
 | TBD | Mapy a infografiky |
 
 ## Jak se přidat
