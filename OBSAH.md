@@ -70,7 +70,7 @@ Udržitelnost, autentičnost, pomalé cestování.
 - Co dělat při problémech
 - Digitální bezpečnost
 
-**Stav:** Nezačato.
+**Stav:** Rozpracováné - doplněna struktura.
 
 ---
 
