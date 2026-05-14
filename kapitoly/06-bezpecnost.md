@@ -1,6 +1,6 @@
 # Kapitola 6 – Bezpečnost a zdraví
 
-> *Připravenost neznamená pesimismus. Znamená, že si můžeš dovolit být optimistou.*
+> *Nejlepší pojistka na výlet je dobré plánování. Druhá nejlepší je opravdové pojištění.*
 
 ---
 
