@@ -50,6 +50,7 @@ Předběžný seznam:
 - **Indie** — intenzita chutí
 - **Itálie** — filosofie suroviny
 - **Thajsko** — rovnováha chutí
+- **Řecko** - čerstvé suroviny a středomořská jednoduchost
 
 ---
 
