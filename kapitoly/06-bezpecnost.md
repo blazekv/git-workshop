@@ -13,7 +13,7 @@ Máme připravený outline — pokud chceš přispět, vítáme pull requesty!
 ## Plánovaná struktura
 
 ### 6.1 Pojištění a jeho typy
-- Cestovní pojištění vs. zdravotní
+- Rozdíl mezi cestovním a zdravotním pojištěním - a proč potřebuješ obojí
 - Co pojištění kryje (a co ne)
 - Jak postupovat při pojistné události
 
