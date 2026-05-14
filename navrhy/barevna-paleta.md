@@ -25,6 +25,10 @@ Tento dokument definuje vizuální identitu knihy. Všechny grafické materiály
 **Nadpisy:** Playfair Display (serif) — elegantní, literární  
 **Tělo textu:** Source Serif Pro — čitelný, příjemný pro delší texty  
 **Popisky a UI:** Inter — neutrální, moderní
+**Hlavni nadpis (H1):** 32-40 px. vaha 700
+**Podnadpis (H2):** 24-28 px, vaha 600
+**Telo textu:** 16-18 px, vaha, radkovani 1.6
+**Popisek:** 12-14 px, vaha 400, verzalky pro kategorie
 
 ---
 
@@ -33,6 +37,14 @@ Tento dokument definuje vizuální identitu knihy. Všechny grafické materiály
 Paleta vychází z barev skutečného cestování — moře, pouště, měst v podvečer.
 Vyhýbáme se příliš syté "travel blogové" estetice (tyrkysová + zlatá + bílá).
 Chceme, aby kniha vypadala jako objekt, který někdo četl a miloval — ne jako Instagram feed.
+
+
+
+## Pouziti v tiskovych materialech
+
+sekce se pripravuje - bude doplnena po finalizaci palety
+
+Otazky? Slack kanal #grafika nebo #kniha-vizualni
 
 ---
 
