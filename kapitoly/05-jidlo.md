@@ -36,6 +36,8 @@ Jeden z nejefektivnějších způsobů, jak ušetřit peníze a zároveň se př
 
 Ranní návštěva místního tržiště je sama o sobě zážitek — a úlovek pak voní celé dopoledne.
 
+Základní vybavení, které stojí za to mít: malý vařič na cesty, jedno pořádné zavírací pouzdro na koření a sada bambusového nádobí. Vejde se do batohu a ušetří stovky za restaurace.
+
 ---
 
 ## Gastronomické destinace, které stojí za cestu
@@ -51,4 +53,9 @@ Předběžný seznam:
 
 ---
 
-*— verze 0.1, rozpracováno —*
+*— verze 0.1, rozpracováno — přidána sekce o vaření*
+
+## Nejlepší street food trhy
+
+Sekce se připravuje - tipy vítány
+
