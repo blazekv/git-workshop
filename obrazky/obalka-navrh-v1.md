@@ -28,6 +28,12 @@ Navrhnout přední obálku knihy "Průvodce moderním cestovatelstvím".
 ### Nepovinné prvky
 - Ilustrativní motiv (abstraktní mapa? silueta cestovatele?)
 
+### Toto na obálce nechceme:
+- Žádné stock foto siluety cestovatele na hoře
+- Žádné mapy jako hlavní motiv (mapy jsou uvnitř knihy)
+- Žádné příliš kontrastní barvy — paletaa je definovaná, drž se jí
+- Koláže více fotografií — chceme jeden silný motiv
+
 ---
 
 ## Poznámky a feedback
