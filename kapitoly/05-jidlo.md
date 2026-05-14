@@ -45,9 +45,11 @@ Základní vybavení, které stojí za to mít: malý vařič na cesty, jedno po
 *[Tato sekce se doplňuje — vítáme tipy od autorů!]*
 
 Předběžný seznam:
-- **Japonsko** — Nejlepší suschi
+- **Japonsko** — Nejlepší sushi
+- **Japonsko** — preciznost a anime
+- **Japonsko** — Nejlepší sushi
 - **Mexiko** — různorodost a barevnost
-- **Indie** — intenzita chutí
+- **Indie** — intenzita chutí, spicy af
 - **Itálie** — filosofie suroviny
 - **Thajsko** — rovnováha chutí
 - **Řecko** - čerstvé suroviny a středomořská jednoduchost
