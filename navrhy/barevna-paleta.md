@@ -10,7 +10,7 @@ Tento dokument definuje vizuální identitu knihy. Všechny grafické materiály
 |-------|-----|---------|
 | Hlubinná modrá | `#1B3A5C` | Hlavní text, nadpisy |
 | Teplá písková | `#E8D5B0` | Pozadí, plochy |
-| Terakota | `#C4622D` | Akcenty, zvýraznění |
+| Terakota | `#C4622D` | Akcenty, zvýraznění, CTA PRVKY |
 
 ## Sekundární barvy
 
